@@ -36,3 +36,11 @@
 <a href="https://github.com/maityamit/maityamit">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maityamit&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="maityamit's GitHub Stats" />
 </a>
+
+
+## 📚 My Education Status
+
+
+<h4>⌚ Currently searching for colleges to admission in Engineering Fields</h4>
+<h4>🏆 Top 1%ile Students in 10th & 12th Boards (WB) </h4>
+<h4>⌛ Class 10th & 12th from Bhimeswari Uchcha Sikshayatan (HS) [2K21 Passout]</h4>
