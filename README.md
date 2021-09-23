@@ -42,6 +42,6 @@
 ## 📚 My Education Status
 
 
-<h4>⌚ Currently searching for colleges to admission in Engineering Fields</h4>
+<h4>⌚ B.Tech (CSE) at Assam University ('25) </h4>
 <h4>🏆 Top 1%ile Students in 10th & 12th Boards (WB) </h4>
 <h4>⌛ Class 10th & 12th from Bhimeswari Uchcha Sikshayatan (HS) [2K21 Passout]</h4>
