@@ -48,3 +48,6 @@
 <h4>⌚ B.Tech (CSE) at GL Bajaj Instituite of Technology and Management ('25) </h4>
 <h4>🏆 Top 1% Students in 10th & 12th Boards (WB) </h4>
 <h4>⌛ Class 10th & 12th from Bhimeswari Uchcha Sikshayatan (HS) [2K21 Passout]</h4>
+
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=maityamit&layout=compact" alt="saurav-skl" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
