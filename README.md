@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Android Studio (Java)
 - 🤔 I’m looking for help with in Android Studio
 - 💬 Ask me about anything
-- 📫 How to reach me: talktoamitmaity@gmail.com
+- 📫 How to reach me: maityamit308@gmail.com
 - ⚡ Fun fact: Tell Tommorow 
 
 
