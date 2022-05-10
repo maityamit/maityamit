@@ -37,25 +37,18 @@
     <a href="https://www.facebook.com/maity.amit.2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_ansuman_behera_/" height="30" width="40" /></a>
    
      
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maityamit&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+</table>
 
 
-
-## &#x1f4c8; My GitHub Stats
-
-<div align="center" width="100%">
-<a href="https://github.com/maityamit/maityamit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maityamit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/maityamit/maityamit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maityamit&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="maityamit's GitHub Stats" />
-</a>
-
-<br>
-    <img heigth="150" src="https://github-readme-streak-stats.herokuapp.com/?user=maityamit&theme=radical">
-<br>
-  
-</div>
+## 📊 GitHub Activity
+| ![Amit github stats](https://github-readme-stats.vercel.app/api?username=maityamit&show_icons=true&theme=radical) | ![Amit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maityamit&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maityamit&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=maityamit&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 
 ## 📚 My Education Status
