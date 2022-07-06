@@ -13,7 +13,7 @@
 
 
 
-<h3 align="left">⭐ Programming Languages Worked💬</h3>
+<h3 align="left">⭐ Programming Languages Working💬</h3>
 
 | C | C++ | Java | Dart | JS | Kotlin |
 |-----------|-----------|-----------|-----------|-----------|-----------|
