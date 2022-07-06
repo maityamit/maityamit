@@ -10,7 +10,20 @@
 - ⚡ Fun fact: Tell Tommorow 
 
 <br>
+<h2 align="center">Experience 💻 </h2>
 
+|  | <h3>Organization</h3> | <h3>TechStack</h3> | <h3>Project</h3> | <h3>TimeLine</h3> |  |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| Project Mentor | Hack Club RAIT | ```Android``` ```Java``` <br> ```Firebase``` | [Sleepometer](https://github.com/maityamit/Sleepometer-Android-App) | Jul 22 - Present | |
+| Contributor | GirlScript Summer of Code | ```Android``` ```Java``` <br> ```Firebase``` ```YAML``` | 9 Pr's Merged | Mar 22 - May 22| |
+| Project Mentor | JGEC Winter of Code | ```Android``` ```Java``` <br> ```Firebase``` | [Tracky](https://github.com/maityamit/Tracky-Track-your-goals-or-targets) | Feb 22 - Mar 22 | |
+| Android Development <br>Remote Internship | Rubberfy | ```Android``` ```Java``` <br> ```Firebase``` | Remote | Nov 21 - Dec 21 | |
+
+
+
+
+
+<br>
 
 
 <h3 align="left">⭐ Programming Languages Working💬</h3>
