@@ -3,7 +3,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=maityamit&color=0e75b6)
 
-- 🔭 I’m currently learning JetPack Compose (Kotlin) 
+- 🔭 I’m contributing towards open source.
 - 🤔 I’m looking for help with in Native and Hybrid App Development
 - 💬 Ask me about anything
 - 📫 How to reach me: maityamit308@gmail.com
