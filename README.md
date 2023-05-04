@@ -14,6 +14,7 @@
 - 7.5K+ LinkedIn 🚀
 - 📫 How to reach me: [Amit Maity](https://www.linkedin.com/in/maityamit)
 - Earned 350$+ from Freelancing. ( Domain:- Android Development )
+- Look my portfolio [Boom...](https://maityamit.github.io/maityamit-portfolio/)
 
 <br>
 
@@ -60,8 +61,21 @@
 
 <br>
 
+<h2>⚙️ Projects  </h2>
 
+| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
+|-----------|-----------|-----------|-----------|-----------|
+| GitHub Peek - View and Follow | [Code](https://github.com/maityamit/Github-Peek-Android-App) | ```Android``` ```Java``` | [Demo-PlayStore](https://play.google.com/store/apps/details?id=githubpeekbyamit.example.githubpeek) | Sep 22 - Jan 23 |
+| Sleepometer : Track your sleep | [Code](https://github.com/maityamit/Sleepometer-Android-App) | ```Android``` ```Java``` | [Demo-PlayStore](https://play.google.com/store/apps/details?id=sleepometerbyamitmaity.example.sleepometer) | Jul 22 - Sep 22 |
+| Covid 19 Vaccine Slot Available | [Code](https://github.com/maityamit/Tracky-Track-your-goals-or-targets) | ```Android``` ```Java``` | [Demo-Drive](https://drive.google.com/file/d/1bSiO13LAU5NEyg6Hj9WSK1Sv1PNWO3a7/view) | Jan 22 - Mar 22 |
+| Tracky : Track your goals | [Code](https://github.com/maityamit/Tracky-Track-your-goals-or-targets) | ```Android``` ```Java``` | [Demo-PlayStore](https://play.google.com/store/apps/details?id=achivementtrackerbyamit.example.achivetracker) | Jan 22 - Mar 22 |
+| Heritism : Heritage Sites | [Code](https://github.com/maityamit/Heritsm-Heritage_of_India-Application) | ```Android``` ```Java``` | [Demo-PlayStore](https://play.google.com/store/apps/details?id=heritsm_heritagebyamit.example.heritsm_heritageofindia) | Oct 21 - Dec 21 |
+| JEE Main and Advanced College Predict | [Code](https://github.com/maityamit/Jee_Main_2020_Cutoff) | ```Android``` ```Java``` | [Demo-Drive](https://drive.google.com/file/d/1kkgs7mT-mAAJ7DQxa7eJ-98J0oQBWRee/view) | Oct 21 - Dec 21 |
+| BMI Calculator App | [Code](https://github.com/maityamit/BMI-Calculator-App-Flutter) | ```Flutter``` ```Dart``` | Demo-Drive | Mar 22 -Mar 22 |
+| QR Code Scan and Save history and Export Data to Excel | [Code](https://github.com/maityamit/QR-Code-Scanner-App-and-Export-result) | ```Android``` ```Java``` | Demo-Drive | May 22 -Jun 22 |
+| Attendence Tracking by QR | [Code](https://github.com/maityamit/Attendence_tracking_website.github.io) | ```Web``` ```JS``` | [Demo-Website](https://maityamit.github.io/Attendence_tracking_website.github.io/) | May 22 -Jul 22 |
 
+<br>
 
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
 
