@@ -32,8 +32,10 @@
 - GirlScript Summer of Code’'22 - Open Source Contributor (Total Pr's Merged: 9 || 185 Scored)
 - Hacktoberfest’'22 - Open Source Contributor (Total Pr's Merged: 8)
 - HackClub RAIT’22 Summer of Code - Open Source Project Mentor
-- JGEC Winter of Code’'22 - Open source Project Mentor (Awarded one of the best project mentors)
-- Kharagpur Winter of Code’'22 - Open Source Project Mentor
+- JGEC Winter of Code’'22 (JGEC) - Open source Project Mentor (Awarded one of the best project mentors)
+- JGEC Winter of Code’'23 (JGEC) - Open source Project Mentor 
+- Kharagpur Winter of Code’'22 (IIT-Kgp) - Open Source Project Mentor
+- IwOC'22 (KIET) - Open Source Project Mentor
 
 <br>
 
