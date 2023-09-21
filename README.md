@@ -12,7 +12,7 @@
 - Ranked 896 among 17k+ participants in Codeforces Round 857 Div2.
 - 3 Star @Codechef | Max Ratings: 1641
 - Ex- Teaching Assistant @CodingNinjas
-- 9.5K+ LinkedIn 🚀
+- 14.9+ LinkedIn 🚀
 - 📫 How to reach me: [Amit Maity](https://www.linkedin.com/in/maityamit)
 - Earned 350$+ from Freelancing. ( Domain:- Android Development )
 - Look at my portfolio [Boom...](https://maityamit.github.io/maityamit-portfolio/)
