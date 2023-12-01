@@ -6,13 +6,13 @@
 <h2 align="left">👋 About Me</h2>
 
 - Secured global rank of 1253 at Google KickStart 2022 of Round H.
-- Knight 👑 @Leetcode | Max Ratings: 2025 (Top 2%)
+- Knight 👑 @Leetcode | Max Ratings: 2055 (Top 2.2%)
 - Specialist 🟢 @Codeforces | Max Ratings: 1425
 - Achieved Global rank 384 in Leetcode Biweekly Contest 109.
 - Ranked 896 among 17k+ participants in Codeforces Round 857 Div2.
-- 3 Star @Codechef | Max Ratings: 1641
+- 3 Star @Codechef | Max Ratings: 1649
 - Ex- Teaching Assistant @CodingNinjas
-- 9.5K+ LinkedIn 🚀
+- 15.5K+ LinkedIn 🚀
 - 📫 How to reach me: [Amit Maity](https://www.linkedin.com/in/maityamit)
 - Earned 350$+ from Freelancing. ( Domain:- Android Development )
 - Look at my portfolio [Boom...](https://maityamit.github.io/maityamit-portfolio/)
