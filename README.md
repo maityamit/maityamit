@@ -51,13 +51,15 @@
 <br>
 <h2 align="left">🙎‍♂️ Position of Responsibility</h2>
 
-- Technical Content Writing Intern at Geeks For Geeks (2 Article Published)
-- Application Development Lead GDSC-GlBajaj (2022-23)
+- Technical Lead GDSC-GLBITM (2023-24)
+- Application Development Lead GDSC-GLBITM (2022-23)
+- Technical Content Writing Intern at Geeks For Geeks (14+ articles published)
 - Facilitator of Google India Compose Camp 2022 of GDSC GLBajaj
 
 <br>
 <h2 align="left">📄 Certificate</h2>
 
+- ICPC Amritapuri Regionalist - 2024 [Certificate](https://icpc.global/ICPCID/M9USPSPSU9Z0)
 - ICPC Mathura Kanpur Preliminary Contest - 2023 (Reached upto - Waiting List) [Certificate](https://icpc.global/ICPCID/M9USPSPSU9Z0)
 - Google KickStart 2022 [All Rounds](https://drive.google.com/file/d/1ho68pzGu8Y2L7V-UK7EN9zArwQ51EOhB/view)
 - An Introduction to Programming through C++ NPTEL (75% scored) [Certificate](https://drive.google.com/file/d/1uZq-C9cR4jRb_UMYNCJX97JPdyii-cnb/view)
