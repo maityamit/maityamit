@@ -6,15 +6,15 @@
 <h2 align="left">👋 About Me</h2>
 
 - Secured global rank of 1253 at Google KickStart 2022 of Round H.
-- Knight 👑 @Leetcode | Max Ratings: 2055 (Top 2.2%)
+- Knight 👑 @Leetcode | Max Ratings: 2057 (Top 2.2%)
 - Specialist 🟢 @Codeforces | Max Ratings: 1425
 - Achieved Global rank 384 in Leetcode Biweekly Contest 109.
 - Ranked 896 among 17k+ participants in Codeforces Round 857 Div2.
-- 3 Star @Codechef | Max Ratings: 1649
+- 3 Star @Codechef | Max Ratings: 1715
 - Ex- Teaching Assistant @CodingNinjas
-- 15.5K+ LinkedIn 🚀
+- 16.5K+ LinkedIn 🚀
 - 📫 How to reach me: [Amit Maity](https://www.linkedin.com/in/maityamit)
-- Earned 350$+ from Freelancing. ( Domain:- Android Development )
+- Earned 650$+ from Freelancing. ( Domain:- Android Development )
 - Look at my portfolio [Boom...](https://maityamit.github.io/maityamit-portfolio/)
 
 <br>
@@ -44,8 +44,9 @@
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8.6 CGPA | Nov 21 - Current |
+| BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8.27 CGPA | Nov 21 - Current |
 | 10+2 (PCM) | <img src="https://upload.wikimedia.org/wikipedia/en/b/b7/West_Bengal_Council_of_Higher_Secondary_Education_Logo.png" width="30" height="30"/> | Bhimeswari Uchcha Sikshayatan (WBCHSE) | 90% | May 19 - Jul 21 |
+| 10  | <img src="https://wbbse.wb.gov.in/img/logo.png" width="30" height="30"/> | Bhimeswari Uchcha Sikshayatan (WBBSE) | 95% | Jan 18 - Feb 19 |
 
 <br>
 <h2 align="left">🙎‍♂️ Position of Responsibility</h2>
