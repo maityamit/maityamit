@@ -6,7 +6,7 @@
 <h2 align="left">👋 About Me</h2>
 
 - Secured global rank of 1253 at Google KickStart 2022 of Round H.
-- Knight 👑 @Leetcode | Max Ratings: 2075 (Top 1.96%)
+- Knight 👑 @Leetcode | Max Ratings: 2095 (Top 1.8%)
 - Specialist 🟢 @Codeforces | Max Ratings: 1425
 - Achieved Global rank 384 in Leetcode Biweekly Contest 109.
 - Ranked 896 among 17k+ participants in Codeforces Round 857 Div2.
