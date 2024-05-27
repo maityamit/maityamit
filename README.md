@@ -23,6 +23,7 @@
 
 | | | <h3>Organization</h3> | <h3>Skills</h3> | <h3>Type</h3> | <h3>TimeLine</h3> |
 |-----------|-----------|-----------|-----------|-----------|-----------|
+| Android Developer | <img src="https://ibb.co/m8JN3sN" width="30" height="30"/> | [Amnaya Nexus](https://play.google.com/store/apps/dev?id=5614603653501802440) | ```Android``` ```Kotlin``` <br> ```XML``` ```Debugging```  | Freelancing | Oct 23 - Apr 24 |
 | Teaching Assistant | <img src="https://files.codingninjas.in/0000000000000723.jpg" width="30" height="30"/> | [Coding Ninjas](https://www.codingninjas.com/) | ```Data Structures``` ```Algorithms``` <br> ```C++``` ```Debugging```  ```Mentoring ``` | Internship | Dec 22 - Apr 23 |
 | Freelancing | <img src="https://pbs.twimg.com/profile_images/1453339438029869059/Mpk9QXje_400x400.jpg" width="30" height="30"/> | [Fiverr](https://www.fiverr.com/) | ```Android Development``` ```Android``` <br> ```Java``` ```Firebase```  | Freelancing | Mar 22 - Sep 22 |
 
@@ -44,7 +45,7 @@
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8.27 CGPA | Nov 21 - Current |
+| BTech (CSE) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> | GL Bajaj Instituite of Technology and Management  | 8.3 CGPA | Nov 21 - Current |
 | 10+2 (PCM) | <img src="https://upload.wikimedia.org/wikipedia/en/b/b7/West_Bengal_Council_of_Higher_Secondary_Education_Logo.png" width="30" height="30"/> | Bhimeswari Uchcha Sikshayatan (WBCHSE) | 90% | May 19 - Jul 21 |
 | 10  | <img src="https://wbbse.wb.gov.in/img/logo.png" width="30" height="30"/> | Bhimeswari Uchcha Sikshayatan (WBBSE) | 95% | Jan 18 - Feb 19 |
 
