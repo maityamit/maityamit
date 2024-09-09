@@ -6,7 +6,7 @@
 <h2 align="left">👋 About Me</h2>
 
 - Secured global rank of 1253 at Google KickStart 2022 of Round H.
-- Knight 👑 @Leetcode | Max Ratings: 2150 (Top 1.3%)
+- Knight 👑 @Leetcode | Max Ratings: 2154 (Top 1.3%)
 - Specialist 🟢 @Codeforces | Max Ratings: 1425
 - Achieved Global rank 384 in Leetcode Biweekly Contest 109.
 - Ranked 896 among 17k+ participants in Codeforces Round 857 Div2.
@@ -23,6 +23,7 @@
 
 | | | <h3>Organization</h3> | <h3>Skills</h3> | <h3>Type</h3> | <h3>TimeLine</h3> |
 |-----------|-----------|-----------|-----------|-----------|-----------|
+| SDE Intern | <img src="https://raw.githubusercontent.com/maityamit/maityamit/main/Images/Organizations/zluri-log.png" width="30" height="30"/> | [Zluri](https://www.zluri.com/) | ```Python``` ```MongoDB``` <br> ```AWS``` ```Prefect```  | Internship | Jul 24 - Curr |
 | Android Developer | <img src="https://ibb.co/m8JN3sN" width="30" height="30"/> | [Amnaya Nexus](https://play.google.com/store/apps/dev?id=5614603653501802440) | ```Android``` ```Kotlin``` <br> ```XML``` ```Debugging```  | Freelancing | Oct 23 - Apr 24 |
 | Teaching Assistant | <img src="https://files.codingninjas.in/0000000000000723.jpg" width="30" height="30"/> | [Coding Ninjas](https://www.codingninjas.com/) | ```Data Structures``` ```Algorithms``` <br> ```C++``` ```Debugging```  ```Mentoring ``` | Internship | Dec 22 - Apr 23 |
 | Freelancing | <img src="https://pbs.twimg.com/profile_images/1453339438029869059/Mpk9QXje_400x400.jpg" width="30" height="30"/> | [Fiverr](https://www.fiverr.com/) | ```Android Development``` ```Android``` <br> ```Java``` ```Firebase```  | Freelancing | Mar 22 - Sep 22 |
