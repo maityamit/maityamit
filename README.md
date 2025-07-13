@@ -5,17 +5,13 @@
 
 <h2 align="left">👋 About Me</h2>
 
-- Guardian - LeetCode Max Ratings: 2160 (Top 1%)
+- Guardian at LeetCode Max Ratings: 2160 (Top 1%)
 - ICPC Regionalist '24 (ICPC Amritapuri)
 - Secured global rank of 1253 at Google KickStart 2022 of Round H.
 - Specialist @Codeforces | Max Ratings: 1425
-- 3 Star @Codechef | Max Ratings: 1715
-- 6 Kyu @AtCoder | Max Ratings: 908
-- Achieved Global rank 377 in Leetcode Weekly Contest 424.
-- Ranked 896 among 17k+ participants in Codeforces Round 857 Div2.
 - 19K+ LinkedIn 🚀
+- Mentored students in DSA and Development.
 - 📫 How to reach me: [Amit Maity](https://www.linkedin.com/in/maityamit)
-- Earned 1800$+ from Freelancing. ( Domain:- Android Development )
 
 <br>
 
@@ -23,6 +19,7 @@
 
 | | | <h3>Organization</h3> | <h3>Skills</h3> | <h3>Type</h3> | <h3>TimeLine</h3> |
 |-----------|-----------|-----------|-----------|-----------|-----------|
+| SWE Intern | <img src="https://logos-world.net/wp-content/uploads/2022/03/Wayfair-Symbol.png" width="30" height="30"/> | [Wayfair](https://www.wayfair.com/) | ```Java``` ```Springboot``` <br> ```Kafka``` ```GCP```  | Internship | Jan 25 - Jun 25 |
 | SDE Intern | <img src="https://marketplace-static.miro.com/zluri.svg" width="30" height="30"/> | [Zluri](https://www.zluri.com/) | ```Python``` ```MongoDB``` <br> ```AWS``` ```Prefect```  | Internship | Jul 24 - Dec 24 |
 | Android Developer | <img src="https://ibb.co/m8JN3sN" width="30" height="30"/> | [Amnaya Nexus](https://play.google.com/store/apps/dev?id=5614603653501802440) | ```Android``` ```Kotlin``` <br> ```XML``` ```Debugging```  | Freelancing | Oct 23 - Apr 24 |
 | Teaching Assistant | <img src="https://files.codingninjas.in/0000000000000723.jpg" width="30" height="30"/> | [Coding Ninjas](https://www.codingninjas.com/) | ```Data Structures``` ```Algorithms``` <br> ```C++``` ```Debugging```  ```Mentoring ``` | Internship | Dec 22 - Apr 23 |
