@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with expertise in full-stack development, system design, and competitive programming. Currently working as a Software Engineering Intern at **Wayfair**, building scalable microservices with Java, Spring Boot, and GCP.
+Software Engineer with expertise in full-stack development, system design, and competitive programming. Currently working as a Software Engineer at **Wayfair**, building scalable microservices with Java, Spring Boot, and GCP.
 
 ### 🏆 Competitive Programming Achievements
 - **LeetCode Guardian** - Max Rating: 2160 (Top 1%)
